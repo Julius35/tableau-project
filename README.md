@@ -1,3 +1,3 @@
 # tableau-project
 
-Presentation: https://public.tableau.com/app/profile/julius.maliwat/viz/Cartella3_16739536052660/Storia1?publish=yes
+Dashboard: https://public.tableau.com/app/profile/julius.maliwat/viz/Cartella3_16739536052660/Storia1?publish=yes
